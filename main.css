@@ -1,0 +1,45 @@
+body{
+    font-family: 'Labrada', serif;
+    background-image:  url(images/python-gedc71fdde_1280-1024x512.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: cyan;
+}
+h1, h2{
+    color: cyan;
+}
+.img_photo{
+    float: left;
+    width: 30vw;
+}
+.img_ronde{
+    border-radius: 50%;
+    max-width: 30vw;
+}
+.presentation{
+    display: inline-block ;
+    width: 30vw;
+    text-align: center;
+}
+.presentation h1{
+    font-size: 5em;
+    margin-bottom: 0.7em;
+
+}
+.presentation h2{
+    font-size: 4em;
+}
+.rainbow-text {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+    color: transparent;
+  }
+  body li{
+    margin-left: 5em;
+  }
+  .englobe{
+    margin-top: 5em;
+    margin-left: 4em;
+  }
+  .img-fluid{
+    max-height: 237px;
+  }
